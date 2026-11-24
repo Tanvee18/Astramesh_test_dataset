@@ -6,11 +6,11 @@ A multilingual security evaluation dataset designed for testing the robustness o
 
 | Category | Samples |
 |-----------|----------|
-| Prompt Injection | 180 |
-| Data Poisoning | 180 |
-| Jailbreak | 180 |
-| Benign Queries | 181 |
-| Total | 721 |
+| Prompt Injection | 230 |
+| Data Poisoning | 230 |
+| Jailbreak | 230 |
+| Benign Queries | 230 |
+| Total | 920 |
 
 ## Languages
 
